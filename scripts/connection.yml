@@ -1,0 +1,5 @@
+name: ai-service-connection
+type: azure_ai_services
+endpoint: "https://eastus2.api.cognitive.microsoft.com/"
+api_key: "80314ff232f845f799f8c284600e0033"
+ai_services_resource_id: "/subscriptions/b34ee268-9014-4eec-a58c-0c3932077eb4/resourceGroups/rg-openai-rag-swc-dev/providers/Microsoft.CognitiveServices/accounts/ai-services-swc-course"
