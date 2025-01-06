@@ -1,23 +1,23 @@
 variable "rg_name" {
-  default = "rg-openai-rag-swc-dev"
+  default = "rg-openai-rag-mvp-dev"
 }
 
 variable "location" {
-  default = "swedencentral"
+  default = "eastus"
 }
 
 variable "ai_search_name" {
-  default = "ai-search-swc-course-01"
+  default = "ai-search-mvp-dev"
 }
 
 variable "ai_service_name" {
-  default = "ai-services-swc-course"
+  default = "ai-services-mvp-dev"
 }
 
 variable "hub_name" {
-  default = "hub-demo"
+  default = "hub-mvp-dev"
 }
 
 variable "project_name" {
-  default = "project-demo"
+  default = "project-mvp-dev"
 }
